@@ -1,14 +1,10 @@
 # Maratones: Rhythm Runner in 2D
 
-Welcome to the GitHub repository for **Maratones**! This project is a rhythm-based 2D obstacle runner inspired by games like *Geometry Dash* and *Cookie Run*. It was created by [Your Name(s)] as a fun, engaging, and challenging game that combines rhythm, platforming, and fast-paced gameplay.
-
----
+Welcome to the GitHub repository for **Maratones**! This project is a rhythm-based 2D obstacle runner inspired by games like *Geometry Dash* and *Cookie Run*. It was created by (insert names, nanti ajah) as a fun, engaging, and challenging game that combines rhythm, platforming, and fast-paced gameplay.
 
 ## **Introduction**
 
 **Maratones** is a 2D rhythm-based runner where players navigate dynamic obstacle courses, synchronized to the beat of catchy original soundtracks. The game features exciting checkpoint battles against music-themed minibosses, ensuring that every run is unique and thrilling.
-
----
 
 ## **Features**
 
@@ -27,8 +23,6 @@ Welcome to the GitHub repository for **Maratones**! This project is a rhythm-bas
 - **Multiplayer Mode:**  
   Compete with friends in local or online multiplayer to see who can survive the longest.
 
----
-
 ## **Background**
 
 The inspiration for **Maratones** comes from the growing popularity of rhythm games and platformers in the gaming community. Combining the fast-paced challenges of obstacle courses with music-driven gameplay creates a uniquely immersive experience. 
@@ -37,8 +31,6 @@ The inspiration for **Maratones** comes from the growing popularity of rhythm ga
 1. **Exciting:** High-energy gameplay with dynamic soundtracks.  
 2. **Challenging:** Obstacle patterns evolve with each track.  
 3. **Social:** Multiplayer modes for competitive or cooperative play.
-
----
 
 ## **Installation**
 
@@ -59,8 +51,6 @@ gcc -o maratones Maratones.c -lSDL2 -lSDL2_mixer
 ./maratones
 ```
 
----
-
 ## **Usage**
 
 After launching the game, the main menu will present the following options:
@@ -77,13 +67,9 @@ After launching the game, the main menu will present the following options:
 4. **Exit:**  
    Quit the game and return to your desktop.
 
----
-
 ## **Contributing**
 
 Contributions to improve **Maratones** are welcome! Feel free to submit issues, pull requests, or suggestions to the repository.
-
----
 
 ## **Credits**
 
