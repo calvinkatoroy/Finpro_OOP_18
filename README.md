@@ -66,7 +66,7 @@ gcc -o maratones Maratones.c -lSDL2 -lSDL2_mixer
 After launching the game, the main menu will present the following options:
 
 1. **Start Run:**  
-   Begin a new game, choosing between Singleplayer or Multiplayer modes.
+   Begin a new game, choosing between Singleplayer.
 
 2. **How to Play:**  
    Learn the basics of movement, obstacle interaction, and miniboss battles.
@@ -92,4 +92,3 @@ Contributions to improve **Maratones** are welcome! Feel free to submit issues, 
 - Special Thanks: [Contributors, Testers, etc.]
 
 Enjoy playing **Maratones**, and may the rhythm guide you to victory!
-```
